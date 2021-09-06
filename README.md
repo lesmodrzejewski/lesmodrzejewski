@@ -4,9 +4,7 @@ I've spent almost every spare time learning coding for the last 18 months. When 
 
 I am going to learn a CSS framework next - Bootstrap or Materialize.
 
-How to reach me on twitter @lesmodrzejewski
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lesmodrzejewski)](https://github.com/anuraghazra/github-readme-stats)
+You can reach me on twitter @lesmodrzejewski
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lesmodrzejewski&layout=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
